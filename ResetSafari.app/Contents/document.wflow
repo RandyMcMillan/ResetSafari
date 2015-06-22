@@ -51,7 +51,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>source</key>
-					<string>on run {input, parameters}	tell application "Terminal" to activate			do shell script "mv ~/Library/Safari ~/Desktop/Safari-`date +%Y%m%d%H%M%S`"		do shell script "rm -Rf ~/Library/Caches/com.apple.Safari"		do shell script "rm -Rf ~/Library/Caches/Metadata/Safari"		do shell script "rm -Rf ~/Library/Caches/com.apple.Safari"		do shell script "rm -Rf ~/Library/Caches/com.apple.WebKit.PluginProcess"		do shell script "rm -Rf ~/Library/Cookies/Cookies.binarycookies"		do shell script "rm -Rf ~/Library/Preferences/com.apple.Safari.plist"		do shell script "rm -Rf ~/Library/Preferences/com.apple.Safari.LSSharedFileList.plist"		do shell script "rm -Rf ~/Library/Preferences/com.apple.Safari.RSS.plist"		do shell script "rm -Rf ~/Library/Preferences/com.apple.Safari.plist"		do shell script "rm -Rf ~/Library/Preferences/com.apple.WebFoundation.plist"		do shell script "rm -Rf ~/Library/Preferences/com.apple.WebKit.PluginHost.plist"		do shell script "rm -Rf ~/Library/Preferences/com.apple.WebKit.PluginProcess.plist"		do shell script "rm -Rf ~/Library/PubSub/Database"		--do shell script "rm -Rf ~/Library/Saved\ Application\ State/com.apple.Safari.savedState"			--do shell script "x"		--tell application "Terminal" to quit	end run</string>
+					<string>on run {input, parameters}	tell application "Terminal" to activate			do shell script "mv ~/Library/Safari ~/Desktop/Safari-`date +%Y%m%d%H%M%S`"		do shell script "rm -Rf ~/Library/Caches/com.apple.Safari"		do shell script "rm -Rf ~/Library/Caches/Metadata/Safari"		do shell script "rm -Rf ~/Library/Caches/com.apple.Safari"		do shell script "rm -Rf ~/Library/Caches/com.apple.WebKit.PluginProcess"		do shell script "rm -Rf ~/Library/Cookies/Cookies.binarycookies"		do shell script "rm -Rf ~/Library/Preferences/com.apple.Safari.plist"		do shell script "rm -Rf ~/Library/Preferences/com.apple.Safari.LSSharedFileList.plist"		do shell script "rm -Rf ~/Library/Preferences/com.apple.Safari.RSS.plist"		do shell script "rm -Rf ~/Library/Preferences/com.apple.Safari.plist"		do shell script "rm -Rf ~/Library/Preferences/com.apple.WebFoundation.plist"		do shell script "rm -Rf ~/Library/Preferences/com.apple.WebKit.PluginHost.plist"		do shell script "rm -Rf ~/Library/Preferences/com.apple.WebKit.PluginProcess.plist"		do shell script "rm -Rf ~/Library/PubSub/Database"		--do shell script "rm -Rf ~/Library/Saved\ Application\ State/com.apple.Safari.savedState"			do shell script "x"	--tell application "Terminal" to quit	end run</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.RunScript</string>
@@ -118,7 +118,7 @@ end run</string>
 	<key>workflowMetaData</key>
 	<dict>
 		<key>workflowTypeIdentifier</key>
-		<string>com.apple.Automator.workflow</string>
+		<string>com.apple.Automator.application</string>
 	</dict>
 </dict>
 </plist>
