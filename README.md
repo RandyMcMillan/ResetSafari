@@ -2,6 +2,8 @@
 
 ResetSafari returns OS X Safari to a factory install state. It is highly destructive BUT settings that are backed in iCloud get restored automatically (Bookmarks, etc.)
 
+Download App: [ResetSafari.app.zip](https://github.com/RandyMcMillan/ResetSafari/blob/master/ResetSafari.app.zip?raw=true)
+
 The MIT License (MIT)
 Copyright © 2015 <copyright holders>
 
