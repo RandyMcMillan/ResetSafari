@@ -4,40 +4,120 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Resources/Scripts/main.scpt</key>
+		<key>Resources/2000px-WMF-Agora-Settings_BCBCBC.svg.png</key>
 		<data>
-		1k7diYDHdS6NDxn7lVvKR8EDBwQ=
+		xQMs6LlMylM2FSv3wsGCj0ClCQk=
 		</data>
-		<key>Resources/applet.icns</key>
+		<key>Resources/AppIcon.icns</key>
 		<data>
-		sINd6lbiqHD5dL8c6u79cFvVXhw=
+		MW2akcyvkDiHsmkT1EHO1m1iKQw=
 		</data>
-		<key>Resources/applet.rsrc</key>
+		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			z4M2f0uKorVdqgbFQtKfjjLVV7M=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			avdVIJ+1mL7aUvyZj7Aod/OfDao=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uBob4OfJNCysvc2FNykNsKNwirM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			y3ey33aHRC51vLJU/9Zrg8JbNmQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/ResetSafari.scpt</key>
 		<data>
-		pv901rPzCtlVZ4tRop0G4Vbtbno=
+		IcGsVuPLlDwgmtFvY7YwxfkLgco=
 		</data>
-		<key>Resources/description.rtfd/TXT.rtf</key>
+		<key>Resources/SafariCloseAllWindows.scpt</key>
 		<data>
-		lDkG3twuM9RjdQ4/CJpe1fMTKBA=
+		uomUhJ/jexgNeyyQEevmh13ZCgQ=
+		</data>
+		<key>Resources/gear_64.png</key>
+		<data>
+		5wKmAW/fPU942VXx2AV9q2VDdYA=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Resources/Scripts/main.scpt</key>
+		<key>Resources/2000px-WMF-Agora-Settings_BCBCBC.svg.png</key>
 		<data>
-		1k7diYDHdS6NDxn7lVvKR8EDBwQ=
+		xQMs6LlMylM2FSv3wsGCj0ClCQk=
 		</data>
-		<key>Resources/applet.icns</key>
+		<key>Resources/AppIcon.icns</key>
 		<data>
-		sINd6lbiqHD5dL8c6u79cFvVXhw=
+		MW2akcyvkDiHsmkT1EHO1m1iKQw=
 		</data>
-		<key>Resources/applet.rsrc</key>
+		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			z4M2f0uKorVdqgbFQtKfjjLVV7M=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			avdVIJ+1mL7aUvyZj7Aod/OfDao=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uBob4OfJNCysvc2FNykNsKNwirM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			y3ey33aHRC51vLJU/9Zrg8JbNmQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/ResetSafari.scpt</key>
 		<data>
-		pv901rPzCtlVZ4tRop0G4Vbtbno=
+		IcGsVuPLlDwgmtFvY7YwxfkLgco=
 		</data>
-		<key>Resources/description.rtfd/TXT.rtf</key>
+		<key>Resources/SafariCloseAllWindows.scpt</key>
 		<data>
-		lDkG3twuM9RjdQ4/CJpe1fMTKBA=
+		uomUhJ/jexgNeyyQEevmh13ZCgQ=
+		</data>
+		<key>Resources/gear_64.png</key>
+		<data>
+		5wKmAW/fPU942VXx2AV9q2VDdYA=
 		</data>
 	</dict>
 	<key>rules</key>
