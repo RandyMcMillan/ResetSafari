@@ -12,6 +12,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    [self resetSafari:self];
 
     // Do any additional setup after loading the view.
 }
