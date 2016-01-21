@@ -10,13 +10,13 @@
 		</data>
 		<key>Resources/AppIcon.icns</key>
 		<data>
-		GtW3Gc+LJmFyE/UVPSMcWx/BuDA=
+		MW2akcyvkDiHsmkT1EHO1m1iKQw=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4o3tWj9OfOO0sztZDdOt4ljrXd4=
+			1/dH53cUB7BHOXEXi4LkZtEqKoU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -25,7 +25,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VIl1ZhUtCqQDhg8z02uZhxwwTFQ=
+			avdVIJ+1mL7aUvyZj7Aod/OfDao=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -34,7 +34,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3feUhi54wPxZp88pPHw8Q5l3Ovo=
+			8WKvIREbciA/vRTbLei42G1Bw7U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -43,14 +43,14 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O8Cifk8f7jMNpAH0Jnp2Tv0ua5g=
+			IWmOOO4ac8tBgiBlggDiC7SneYw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Resources/ResetSafari.scpt</key>
 		<data>
-		BmDPkU5ySLWctCF/0cr5fQzN/eI=
+		tGmOFGDbOPF8pSAhXMq08ZOrYG0=
 		</data>
 		<key>Resources/SafariCloseAllWindows.scpt</key>
 		<data>
@@ -69,13 +69,13 @@
 		</data>
 		<key>Resources/AppIcon.icns</key>
 		<data>
-		GtW3Gc+LJmFyE/UVPSMcWx/BuDA=
+		MW2akcyvkDiHsmkT1EHO1m1iKQw=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4o3tWj9OfOO0sztZDdOt4ljrXd4=
+			1/dH53cUB7BHOXEXi4LkZtEqKoU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -84,7 +84,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VIl1ZhUtCqQDhg8z02uZhxwwTFQ=
+			avdVIJ+1mL7aUvyZj7Aod/OfDao=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -93,7 +93,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3feUhi54wPxZp88pPHw8Q5l3Ovo=
+			8WKvIREbciA/vRTbLei42G1Bw7U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -102,14 +102,14 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O8Cifk8f7jMNpAH0Jnp2Tv0ua5g=
+			IWmOOO4ac8tBgiBlggDiC7SneYw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Resources/ResetSafari.scpt</key>
 		<data>
-		BmDPkU5ySLWctCF/0cr5fQzN/eI=
+		tGmOFGDbOPF8pSAhXMq08ZOrYG0=
 		</data>
 		<key>Resources/SafariCloseAllWindows.scpt</key>
 		<data>
