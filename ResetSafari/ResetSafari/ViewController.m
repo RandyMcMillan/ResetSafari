@@ -12,7 +12,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    [self resetSafari:self];~/Library/Safari/
+    [self resetSafari:self];
 
     // Do any additional setup after loading the view.
 }
