@@ -7,7 +7,6 @@
 //
 
 #import "ViewController.h"
-
 @implementation ViewController
 
 - (void)viewDidLoad {
@@ -17,6 +16,11 @@
     // Do any additional setup after loading the view.
 }
 
+- (void)viewDidAppear {
+
+    [self resetSafari:self];
+
+}
 - (void)setRepresentedObject:(id)representedObject {
     [super setRepresentedObject:representedObject];
 
@@ -28,8 +32,9 @@
     
     [self openAppleScript:(NSString *)@"SafariCloseAllWindows"];
     [self openAppleScript:(NSString *)@"ResetSafari"];
-    
-    
+    //UIApplication *myapp = [NSApplication sharedApplication];
+    //[myapp performSelector:@selector(suspend)];
+    exit(0);
 }
 
 #pragma mark ViewController openAppleScript

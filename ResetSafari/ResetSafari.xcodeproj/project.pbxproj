@@ -218,7 +218,7 @@
 				TargetAttributes = {
 					488DEB481C13556F008E6ABE = {
 						CreatedOnToolsVersion = 7.1;
-						DevelopmentTeam = LC9LH52FFZ;
+						DevelopmentTeam = QP9MSC9X74;
 					};
 					488DEB5E1C13556F008E6ABE = {
 						CreatedOnToolsVersion = 7.1;
@@ -417,7 +417,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "Developer ID Application";
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = ResetSafari/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
@@ -430,7 +429,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "Developer ID Application";
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = ResetSafari/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
@@ -510,6 +508,7 @@
 				488DEB751C13556F008E6ABE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		488DEB761C13556F008E6ABE /* Build configuration list for PBXNativeTarget "ResetSafariTests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +517,7 @@
 				488DEB781C13556F008E6ABE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		488DEB791C13556F008E6ABE /* Build configuration list for PBXNativeTarget "ResetSafariUITests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +526,7 @@
 				488DEB7B1C13556F008E6ABE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
